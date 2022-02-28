@@ -2,5 +2,5 @@ Este es un archivo de texto vacio.
 Esta es la segunda línea aaa.
 Y esta es la tercera.
 Y ahora agrego una cuarta.
-Tengo 23 años.
-Estoy aprendiendo git.
+Tengo 24 años.
+Estoy aprendiendo git y github.
